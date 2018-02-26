@@ -38,7 +38,6 @@
   export default {
     props: ['languages', 'value'],
     data () {
-      console.log(this.value)
       return {
         selectedLanguage: defaultLocales[this.value]
       }
