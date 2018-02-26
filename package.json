@@ -1,0 +1,7 @@
+{
+    "name": "vuetify-locale-select",
+    "version": "0.0.2",
+    "description": "",
+    "main": "src/VuetifyLocaleSelect.vue",
+    "author": "Daniel Schulz"
+}
